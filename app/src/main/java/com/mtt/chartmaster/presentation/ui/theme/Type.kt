@@ -1,4 +1,4 @@
-package com.mtt.chartmaster.ui.theme
+package com.mtt.chartmaster.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
